@@ -1,0 +1,20 @@
+{
+  "app_id": "${FEISHU_APP_ID}",
+  "app_secret": "${FEISHU_APP_SECRET}",
+  "wiki_url": "https://mcnxfjx6aasb.feishu.cn/wiki/Zvqlwrh2Airea1k8RIbcb1Shnnc?from=from_copylink",
+  "data_roots": [
+    "F:\\klook\\src\\price_data",
+    "C:\\Users\\42047\\PycharmProjects\\price_data\\src\\price_data",
+    "/Users/abelwu/IdeaProjects/ixtech/price-data/src/price_data"
+  ],
+  "state_file": "src\\feishu_sync_state.json",
+  "extensions": [".csv", ".xlsx"],
+  "include_codes": [],
+  "exclude_codes": [],
+  "code_documents": {},
+  "code_document_titles": {},
+  "create_missing_documents": true,
+  "date_heading_format": "%Y-%m-%d",
+  "settle_seconds": 5,
+  "api_min_interval_seconds": 0.35
+}

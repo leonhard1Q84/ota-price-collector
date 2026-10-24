@@ -1,0 +1,107 @@
+{
+  "error": null,
+  "result": {
+    "city_id": 29,
+    "city_name": "大阪市",
+    "city_image_url": "https://res.klook.com/image/upload/v1735801633/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/ic_city.png",
+    "navigation_list": [
+      "机场",
+      "火车站"
+    ],
+    "recommended_poi_info_list": [
+      {
+        "title": "机场",
+        "key": "car_rental_POI_search_17810",
+        "image_url": "https://res.klook.com/image/upload/v1735539695/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/icon_plane.png",
+        "buried_pointed_desc": "Airport_LIST",
+        "poi_info_list": [
+          {
+            "app_cookie_str": null,
+            "country_code": "JP",
+            "city_id": 29,
+            "city_name": "大阪市",
+            "country_id": null,
+            "poi_id": 50036480,
+            "poi_name": "关西国际机场",
+            "image_url": "https://res.klook.com/image/upload/v1735539695/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/icon_plane.png",
+            "address": null,
+            "longitude": "135.24407",
+            "latitude": "34.42731",
+            "poi_type": 2,
+            "iata_code": "KIX",
+            "display_icon": null,
+            "display_business_name": null,
+            "place_id": null,
+            "google_poi": false
+          }
+        ]
+      },
+      {
+        "title": "火车站",
+        "key": "car_rental_POI_search_17812",
+        "image_url": "https://res.klook.com/image/upload/v1735784963/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/__KIcon_KIcons.icon_train_outlined_size__24_colors__colorScheme.colorTextPrimary.png",
+        "buried_pointed_desc": "Railway_LIST",
+        "poi_info_list": [
+          {
+            "app_cookie_str": null,
+            "country_code": "JP",
+            "city_id": 29,
+            "city_name": "大阪市",
+            "country_id": null,
+            "poi_id": 50007502,
+            "poi_name": "新大阪站",
+            "image_url": "https://res.klook.com/image/upload/v1735539695/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/ic_Subway.png",
+            "address": null,
+            "longitude": "135.5002547",
+            "latitude": "34.7334658",
+            "poi_type": 12,
+            "iata_code": null,
+            "display_icon": null,
+            "display_business_name": null,
+            "place_id": null,
+            "google_poi": false
+          },
+          {
+            "app_cookie_str": null,
+            "country_code": "JP",
+            "city_id": 29,
+            "city_name": "大阪市",
+            "country_id": null,
+            "poi_id": 50007398,
+            "poi_name": "大阪站",
+            "image_url": "https://res.klook.com/image/upload/v1735784963/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/__KIcon_KIcons.icon_train_outlined_size__24_colors__colorScheme.colorTextPrimary.png",
+            "address": null,
+            "longitude": "135.4959506",
+            "latitude": "34.7024854",
+            "poi_type": 3,
+            "iata_code": null,
+            "display_icon": null,
+            "display_business_name": null,
+            "place_id": null,
+            "google_poi": false
+          },
+          {
+            "app_cookie_str": null,
+            "country_code": "JP",
+            "city_id": 29,
+            "city_name": "大阪市",
+            "country_id": null,
+            "poi_id": 50052802,
+            "poi_name": "难波",
+            "image_url": "https://res.klook.com/image/upload/v1735539695/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/ic_Subway.png",
+            "address": null,
+            "longitude": "135.499549",
+            "latitude": "34.66486330000001",
+            "poi_type": 12,
+            "iata_code": null,
+            "display_icon": null,
+            "display_business_name": null,
+            "place_id": null,
+            "google_poi": false
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

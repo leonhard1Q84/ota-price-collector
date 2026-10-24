@@ -1,0 +1,4 @@
+interface:
+  display_name: "Klook 国际站稳定访问"
+  short_description: "稳定访问 Klook 国际站并分级处理跳转、风控与限流"
+  default_prompt: "使用 $klook-stable-international-access 设计或审查一个可稳定访问 Klook 国际站的浏览器自动化方案。"

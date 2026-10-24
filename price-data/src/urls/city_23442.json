@@ -1,0 +1,97 @@
+{
+  "error": null,
+  "result": {
+    "city_id": 23442,
+    "city_name": "福冈",
+    "city_image_url": "https://res.klook.com/image/upload/v1735801633/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/ic_city.png",
+    "navigation_list": [
+      "机场",
+      "火车站",
+      "渡轮码头"
+    ],
+    "recommended_poi_info_list": [
+      {
+        "title": "机场",
+        "key": "car_rental_POI_search_17810",
+        "image_url": "https://res.klook.com/image/upload/v1735539695/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/icon_plane.png",
+        "buried_pointed_desc": "Airport_LIST",
+        "poi_info_list": [
+          {
+            "app_cookie_str": null,
+            "country_code": "JP",
+            "city_id": 23442,
+            "city_name": "福冈",
+            "country_id": null,
+            "poi_id": 50036467,
+            "poi_name": "福冈机场",
+            "image_url": "https://res.klook.com/image/upload/v1735539695/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/icon_plane.png",
+            "address": null,
+            "longitude": "130.45069",
+            "latitude": "33.58594",
+            "poi_type": 2,
+            "iata_code": "FUK",
+            "display_icon": null,
+            "display_business_name": null,
+            "place_id": null,
+            "google_poi": false
+          }
+        ]
+      },
+      {
+        "title": "火车站",
+        "key": "car_rental_POI_search_17812",
+        "image_url": "https://res.klook.com/image/upload/v1735784963/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/__KIcon_KIcons.icon_train_outlined_size__24_colors__colorScheme.colorTextPrimary.png",
+        "buried_pointed_desc": "Railway_LIST",
+        "poi_info_list": [
+          {
+            "app_cookie_str": null,
+            "country_code": "JP",
+            "city_id": 23442,
+            "city_name": "福冈",
+            "country_id": null,
+            "poi_id": 50007409,
+            "poi_name": "博多站",
+            "image_url": "https://res.klook.com/image/upload/v1735784963/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/__KIcon_KIcons.icon_train_outlined_size__24_colors__colorScheme.colorTextPrimary.png",
+            "address": null,
+            "longitude": "130.4199026",
+            "latitude": "33.5900413",
+            "poi_type": 3,
+            "iata_code": null,
+            "display_icon": null,
+            "display_business_name": null,
+            "place_id": null,
+            "google_poi": false
+          }
+        ]
+      },
+      {
+        "title": "渡轮码头",
+        "key": "car_rental_POI_search_17814",
+        "image_url": "https://res.klook.com/image/upload/v1735784957/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/icon_cruise_black_24x24.png",
+        "buried_pointed_desc": "Other_LIST",
+        "poi_info_list": [
+          {
+            "app_cookie_str": null,
+            "country_code": "JP",
+            "city_id": 23442,
+            "city_name": "福冈",
+            "country_id": null,
+            "poi_id": 50014240,
+            "poi_name": "Hakata Port Tower (博多港塔楼)",
+            "image_url": "https://res.klook.com/image/upload/v1735784957/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/icon_cruise_black_24x24.png",
+            "address": null,
+            "longitude": "130.3977684",
+            "latitude": "33.6043052",
+            "poi_type": 5,
+            "iata_code": null,
+            "display_icon": null,
+            "display_business_name": null,
+            "place_id": null,
+            "google_poi": false
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

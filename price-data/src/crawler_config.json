@@ -1,0 +1,11 @@
+{
+  "generated_files": [
+    "/Users/admin/PycharmProjects/price-data/src/data/20260904/output_QCQ_20260904_120404.csv",
+    "/Users/admin/PycharmProjects/price-data/src/price_data/20260904/评分汇总20260904.csv"
+  ],
+  "generation_time": "2026-09-04T12:34:16.292411",
+  "total_results": 359,
+  "data_directory": "/Users/admin/PycharmProjects/price-data/src/data/20260904",
+  "price_data_directory": "/Users/admin/PycharmProjects/price-data/src/price_data/20260904",
+  "date": "20260904"
+}

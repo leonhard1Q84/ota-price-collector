@@ -1,0 +1,20 @@
+{
+  "app_id": "${FEISHU_APP_ID}",
+  "app_secret": "${FEISHU_APP_SECRET}",
+  "chat_name": "price-data-sync",
+  "state_file": "src/airport_price_group_sync_state.json",
+  "poll_interval_seconds": 60,
+  "extensions": [".xlsx", ".csv"],
+  "projects": [
+    {
+      "name": "airport_transfer_dropoff",
+      "crawler_config": "/Users/admin/PycharmProjects/Transfer-Drop-off/src/crawler_config.json",
+      "price_data_root": "/Users/admin/PycharmProjects/Transfer-Drop-off/src/price_data"
+    },
+    {
+      "name": "airport_transfer_pickup",
+      "crawler_config": "/Users/admin/PycharmProjects/Transfer-Pickup/src/crawler_config.json",
+      "price_data_root": "/Users/admin/PycharmProjects/Transfer-Pickup/src/price_data"
+    }
+  ]
+}

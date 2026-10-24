@@ -1,0 +1,178 @@
+[
+    {
+        "pick":  "BKS",
+        "url":  "https://www.klook.com/zh-CN/car-rentals/results/?pick=%E5%85%B3%E8%A5%BF%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA%20%28KIX%29\u0026drop=%E5%85%B3%E8%A5%BF%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA%20%28KIX%29\u0026diffLoc=false\u0026pDate=2026-01-14%2010%3A00\u0026dDate=2026-01-16%2010%3A00\u0026age=30\u0026lat=34.42731\u0026long=135.24407\u0026dLat=34.42731\u0026dLong=135.24407\u0026code=JP\u0026dCode=JP\u0026iata=KIX\u0026dIata=KIX\u0026cgt=\u0026pCityId=12365\u0026pCityName=%E6%B3%89%E5%8D%97\u0026pPoiId=50036480\u0026dCityId=12365\u0026dCityName=%E6%B3%89%E5%8D%97\u0026dPoiId=50036480",
+        "city_id":  12365,
+        "city_name":  "泉南",
+        "poi_id":  50036480,
+        "poi_name":  "关西国际机场",
+        "country_code":  "JP",
+        "latitude":  "34.42731",
+        "longitude":  "135.24407",
+        "iata_code":  "KIX"
+    },
+    {
+        "pick":  "BKS",
+        "url":  "https://www.klook.com/zh-CN/car-rentals/results/?pick=%E9%9A%BE%E6%B3%A2%E7%AB%99\u0026drop=%E9%9A%BE%E6%B3%A2%E7%AB%99\u0026diffLoc=false\u0026pDate=2026-01-14%2010%3A00\u0026dDate=2026-01-16%2010%3A00\u0026age=30\u0026lat=34.6629331\u0026long=135.5022953\u0026dLat=34.6629331\u0026dLong=135.5022953\u0026code=JP\u0026dCode=JP\u0026iata=135.5022953,34.6629331\u0026dIata=135.5022953,34.6629331\u0026cgt=\u0026pCityId=29\u0026pCityName=%E5%A4%A7%E9%98%AA%E5%B8%82\u0026pPoiId=50043205\u0026dCityId=29\u0026dCityName=%E5%A4%A7%E9%98%AA%E5%B8%82\u0026dPoiId=50043205",
+        "city_id":  29,
+        "city_name":  "大阪市",
+        "poi_id":  50043205,
+        "poi_name":  "难波站",
+        "country_code":  "JP",
+        "latitude":  "34.6629331",
+        "longitude":  "135.5022953",
+        "iata_code":  null
+    },
+    {
+        "pick":  "HKT",
+        "url":  "https://www.klook.com/zh-CN/car-rentals/results/?pick=%E6%99%AE%E5%90%89%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA%20(HKT)\u0026drop=\u0026diffLoc=\u0026pDate=2026-05-01%2010%3A00\u0026dDate=2026-05-05%2010%3A00\u0026age=30\u0026lat=8.1132\u0026long=98.31687\u0026dLat=\u0026dLong=\u0026code=TH\u0026dCode=\u0026iata=HKT\u0026dIata=\u0026pCityId=7\u0026pCityName=%E6%99%AE%E5%90%89%E5%B2%9B\u0026pPoiId=50037253\u0026dCityId=\u0026dCityName=\u0026dPoiId=\u0026promoKey=\u0026supplierId=\u0026spm=CarRental_SearchResult.SearchBtn\u0026clickId=c5a30f5ee1\u0026search_id=cd9aeaac2e51e1fbf31b8143538b68fd"
+    },
+    {
+        "pick":  "NGO",
+        "url":  "https://www.klook.com/zh-CN/car-rentals/results/?pDate=2026-01-18%2010%3A00\u0026dDate=2026-01-21%2010%3A00\u0026pick=%E4%B8%AD%E9%83%A8%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA%20%28NGO%29\u0026lat=34.8582086\u0026long=136.810933\u0026code=JP\u0026iata=NGO\u0026pCityId=8002\u0026pCityName=%E5%B8%B8%E6%BB%91\u0026pPoiId=50037662",
+        "city_id":  8002,
+        "city_name":  "常滑",
+        "poi_id":  50037662,
+        "poi_name":  "中部国际机场",
+        "country_code":  "JP",
+        "latitude":  "34.8582086",
+        "longitude":  "136.810933",
+        "iata_code":  "NGO"
+    },
+    {
+        "pick":  "NGO",
+        "url":  "https://www.klook.com/zh-CN/car-rentals/results/?pick=%E5%90%8D%E5%8F%A4%E5%B1%8B%E7%AB%99\u0026drop=\u0026diffLoc=\u0026pDate=2026-01-18%2010%3A00\u0026dDate=2026-01-21%2010%3A00\u0026age=30\u0026lat=35.170915\u0026long=136.8815369\u0026dLat=\u0026dLong=\u0026code=JP\u0026dCode=\u0026iata=\u0026dIata=\u0026pCityId=71\u0026pCityName=%E5%90%8D%E5%8F%A4%E5%B1%8B\u0026pPoiId=50007491\u0026dCityId=\u0026dCityName=\u0026dPoiId=\u0026promoKey=\u0026supplierId=\u0026spm=CarRental_SearchResult.SearchBtn\u0026clickId=3677eb6cfd",
+        "city_id":  71,
+        "city_name":  "名古屋",
+        "poi_id":  50007491,
+        "poi_name":  "名古屋站",
+        "country_code":  "JP",
+        "latitude":  "35.170915",
+        "longitude":  "136.8815369",
+        "iata_code":  ""
+    },
+    {
+        "pick":  "OKA",
+        "url":  "https://www.klook.com/zh-CN/car-rentals/results/?pick=%E9%82%A3%E9%9C%B8%E6%9C%BA%E5%9C%BA%20%28OKA%29\u0026drop=%E9%82%A3%E9%9C%B8%E6%9C%BA%E5%9C%BA%20%28OKA%29\u0026diffLoc=false\u0026pDate=2026-01-14%2010%3A00\u0026dDate=2026-01-16%2010%3A00\u0026age=30\u0026lat=26.19581\u0026long=127.64587\u0026dLat=26.19581\u0026dLong=127.64587\u0026code=JP\u0026dCode=JP\u0026iata=OKA\u0026dIata=OKA\u0026cgt=\u0026pCityId=13641\u0026pCityName=%E9%82%A3%E9%9C%B8\u0026pPoiId=50036544\u0026dCityId=13641\u0026dCityName=%E9%82%A3%E9%9C%B8\u0026dPoiId=50036544",
+        "city_id":  13641,
+        "city_name":  "那霸",
+        "poi_id":  50036544,
+        "poi_name":  "那霸机场",
+        "country_code":  "JP",
+        "latitude":  "26.19581",
+        "longitude":  "127.64587",
+        "iata_code":  "OKA"
+    },
+    {
+        "pick":  "SMV",
+        "url":  "https://www.klook.com/zh-CN/car-rentals/results/?pick=%E5%85%B0%E5%8D%A1%E5%A8%81%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA%20%28LGK%29\u0026drop=%E5%85%B0%E5%8D%A1%E5%A8%81%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA%20%28LGK%29\u0026diffLoc=false\u0026pDate=2026-01-14%2010%3A00\u0026dDate=2026-01-16%2010%3A00\u0026age=30\u0026lat=6.32973\u0026long=99.72867\u0026dLat=6.32973\u0026dLong=99.72867\u0026code=MY\u0026dCode=MY\u0026iata=LGK\u0026dIata=LGK\u0026cgt=\u0026pCityId=190\u0026pCityName=%E5%85%B0%E5%8D%A1%E5%A8%81\u0026pPoiId=50036543\u0026dCityId=190\u0026dCityName=%E5%85%B0%E5%8D%A1%E5%A8%81\u0026dPoiId=50036543",
+        "city_id":  190,
+        "city_name":  "兰卡威",
+        "poi_id":  50036543,
+        "poi_name":  "兰卡威国际机场",
+        "country_code":  "MY",
+        "latitude":  "6.32973",
+        "longitude":  "99.72867",
+        "iata_code":  "LGK"
+    },
+    {
+        "pick":  "CTS",
+        "url":  "https://www.klook.com/en-HK/car-rentals/results/?pDate=2026-05-19%2010%3A00\u0026dDate=2026-05-22%2010%3A00\u0026pick=New%20Chitose%20Airport%20%28CTS%29\u0026lat=42.7752\u0026long=141.69228\u0026code=JP\u0026iata=CTS\u0026pCityId=115102\u0026pCityName=Chitose\u0026pPoiId=50036492\u0026search_id=f1d96ba586a754af8b5929fb274585d4"
+    },
+    {
+        "pick":  "FUK",
+        "url":  "https://www.klook.com/zh-CN/car-rentals/results/?pick=%E7%A6%8F%E5%86%88%E6%9C%BA%E5%9C%BA+%28FUK%29\u0026drop=\u0026diffLoc=\u0026pDate=2025-12-29+10%3A00\u0026dDate=2025-12-31+10%3A00\u0026age=30\u0026lat=33.58594\u0026long=130.45069\u0026dLat=\u0026dLong=\u0026code=JP\u0026dCode=\u0026iata=FUK\u0026dIata=\u0026pCityId=23442\u0026pCityName=%E7%A6%8F%E5%86%88\u0026pPoiId=50036467\u0026dCityId=\u0026dCityName=\u0026dPoiId=\u0026promoKey=\u0026supplierId=\u0026spm=CarRental_SearchResult.SearchBtn\u0026clickId=spiderv2_1764502413",
+        "city_id":  23442,
+        "city_name":  "福冈",
+        "poi_id":  50036467,
+        "poi_name":  "福冈机场",
+        "country_code":  "JP",
+        "latitude":  "33.58594",
+        "longitude":  "130.45069",
+        "iata_code":  "FUK"
+    },
+    {
+        "pick":  "GTZY",
+        "url":  "https://www.klook.com/zh-CN/car-rentals/results/?pick=%E9%AB%98%E9%93%81%E5%B7%A6%E8%90%A5%E7%AB%99\u0026drop=%E9%AB%98%E9%93%81%E5%B7%A6%E8%90%A5%E7%AB%99\u0026diffLoc=false\u0026pDate=2026-01-13%2010%3A00\u0026dDate=2026-01-16%2010%3A00\u0026age=30\u0026lat=22.687821\u0026long=120.309117\u0026dLat=22.687821\u0026dLong=120.309117\u0026code=TW\u0026dCode=TW\u0026iata=120.309117,22.687821\u0026dIata=120.309117,22.687821\u0026cgt=\u0026pCityId=22\u0026pCityName=%E9%AB%98%E9%9B%84\u0026pPoiId=50038010\u0026dCityId=22\u0026dCityName=%E9%AB%98%E9%9B%84\u0026dPoiId=50038010",
+        "city_id":  22,
+        "city_name":  "高雄",
+        "poi_id":  50038010,
+        "poi_name":  "高铁左营站",
+        "country_code":  "TW",
+        "latitude":  "22.687821",
+        "longitude":  "120.309117",
+        "iata_code":  "null"
+    },
+    {
+        "pick":  "GXCZ",
+        "url":  "https://www.klook.com/zh-CN/car-rentals/results/?pick=%E9%AB%98%E9%9B%84%E8%BD%A6%E7%AB%99\u0026drop=%E9%AB%98%E9%9B%84%E8%BD%A6%E7%AB%99\u0026diffLoc=false\u0026pDate=2026-01-13%2010%3A00\u0026dDate=2026-01-16%2010%3A00\u0026age=30\u0026lat=22.6394924\u0026long=120.302583\u0026dLat=22.6394924\u0026dLong=120.302583\u0026code=TW\u0026dCode=TW\u0026iata=120.302583,22.6394924\u0026dIata=120.302583,22.6394924\u0026cgt=\u0026pCityId=22\u0026pCityName=%E9%AB%98%E9%9B%84\u0026pPoiId=50044458\u0026dCityId=22\u0026dCityName=%E9%AB%98%E9%9B%84\u0026dPoiId=50044458",
+        "city_id":  22,
+        "city_name":  "高雄",
+        "poi_id":  50044458,
+        "poi_name":  "高雄车站",
+        "country_code":  "TW",
+        "latitude":  "22.6394924",
+        "longitude":  "120.302583",
+        "iata_code":  "null"
+    },
+    {
+        "pick":  "JDM",
+        "url":  "https://www.klook.com/zh-CN/car-rentals/results/?pick=%E4%B8%9C%E4%BA%AC%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA+%28HND%29\u0026drop=\u0026diffLoc=\u0026pDate=2025-12-29+10%3A00\u0026dDate=2025-12-31+10%3A00\u0026age=30\u0026lat=35.552258\u0026long=139.779694\u0026dLat=\u0026dLong=\u0026code=JP\u0026dCode=\u0026iata=HND\u0026dIata=\u0026pCityId=28\u0026pCityName=%E4%B8%9C%E4%BA%AC\u0026pPoiId=50036510\u0026dCityId=\u0026dCityName=\u0026dPoiId=\u0026promoKey=\u0026supplierId=\u0026spm=CarRental_SearchResult.SearchBtn\u0026clickId=spiderv2_1764502413",
+        "city_id":  28,
+        "city_name":  "东京",
+        "poi_id":  50036510,
+        "poi_name":  "东京国际机场",
+        "country_code":  "JP",
+        "latitude":  "35.552258",
+        "longitude":  "139.779694",
+        "iata_code":  "HND"
+    },
+    {
+        "pick":  "KHH",
+        "url":  "https://www.klook.com/zh-CN/car-rentals/results/?pick=%E9%AB%98%E9%9B%84%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA%20%28KHH%29\u0026drop=%E9%AB%98%E9%9B%84%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA%20%28KHH%29\u0026diffLoc=false\u0026pDate=2026-01-13%2010%3A00\u0026dDate=2026-01-16%2010%3A00\u0026age=30\u0026lat=22.5746682\u0026long=120.3484723\u0026dLat=22.5746682\u0026dLong=120.3484723\u0026code=TW\u0026dCode=TW\u0026iata=KHH\u0026dIata=KHH\u0026cgt=\u0026pCityId=22\u0026pCityName=%E9%AB%98%E9%9B%84\u0026pPoiId=50037580\u0026dCityId=22\u0026dCityName=%E9%AB%98%E9%9B%84\u0026dPoiId=50037580",
+        "city_id":  22,
+        "city_name":  "高雄",
+        "poi_id":  50037580,
+        "poi_name":  "高雄国际机场",
+        "country_code":  "TW",
+        "latitude":  "22.5746682",
+        "longitude":  "120.3484723",
+        "iata_code":  "KHH"
+    },
+    {
+        "pick":  "NRT",
+        "url":  "https://www.klook.com/zh-CN/car-rentals/results/?pick=%E6%88%90%E7%94%B0%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA+%28NRT%29\u0026drop=\u0026diffLoc=\u0026pDate=2025-12-29+10%3A00\u0026dDate=2025-12-31+10%3A00\u0026age=30\u0026lat=35.76472\u0026long=140.38639\u0026dLat=\u0026dLong=\u0026code=JP\u0026dCode=\u0026iata=NRT\u0026dIata=\u0026pCityId=28\u0026pCityName=%E4%B8%9C%E4%BA%AC\u0026pPoiId=50036489\u0026dCityId=\u0026dCityName=\u0026dPoiId=\u0026promoKey=\u0026supplierId=\u0026spm=CarRental_SearchResult.SearchBtn\u0026clickId=spiderv2_1764502413",
+        "city_id":  28,
+        "city_name":  "东京",
+        "poi_id":  50036489,
+        "poi_name":  "成田国际机场",
+        "country_code":  "JP",
+        "latitude":  "35.76472",
+        "longitude":  "140.38639",
+        "iata_code":  "NRT"
+    },
+    {
+        "pick":  "QCQ",
+        "url":  "https://www.klook.com/zh-CN/car-rentals/results/?pick=%E6%B5%85%E8%8D%89%E6%A1%A5%E7%AB%99\u0026drop=\u0026diffLoc=\u0026pDate=2025-12-02%2010%3A00\u0026dDate=2025-12-05%2010%3A00\u0026age=30\u0026lat=35.6974952\u0026long=139.7859834\u0026dLat=\u0026dLong=\u0026code=JP\u0026dCode=\u0026iata=\u0026dIata=\u0026pCityId=28\u0026pCityName=%E4%B8%9C%E4%BA%AC\u0026pPoiId=50006474\u0026dCityId=\u0026dCityName=\u0026dPoiId=\u0026promoKey=\u0026supplierId=\u0026spm=CarRental_SearchResult.SearchBtn\u0026clickId=1276da813d",
+        "city_id":  28,
+        "city_name":  "东京",
+        "poi_id":  null,
+        "poi_name":  "浅草桥站",
+        "country_code":  "JP",
+        "latitude":  "35.6974952",
+        "longitude":  "139.7859834",
+        "iata_code":  null
+    },
+    {
+        "pick":  "TPE",
+        "url":  "https://www.klook.com/zh-CN/car-rentals/results/?pick=%E6%A1%83%E5%9B%AD%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA%20%28TPE%29\u0026drop=%E6%A1%83%E5%9B%AD%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA%20%28TPE%29\u0026diffLoc=false\u0026pDate=2026-01-13%2010%3A00\u0026dDate=2026-01-16%2010%3A00\u0026age=30\u0026lat=25.07773\u0026long=121.23282\u0026dLat=25.07773\u0026dLong=121.23282\u0026code=TW\u0026dCode=TW\u0026iata=TPE\u0026dIata=TPE\u0026cgt=\u0026pCityId=4737\u0026pCityName=%E6%A1%83%E5%9B%AD%E5%B8%82\u0026pPoiId=50037143\u0026dCityId=4737\u0026dCityName=%E6%A1%83%E5%9B%AD%E5%B8%82\u0026dPoiId=50037143",
+        "city_id":  4737,
+        "city_name":  "桃园市",
+        "poi_id":  50037143,
+        "poi_name":  "桃园国际机场",
+        "country_code":  "TW",
+        "latitude":  "25.07773",
+        "longitude":  "121.23282",
+        "iata_code":  "TPE"
+    }
+]

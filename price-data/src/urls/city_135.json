@@ -1,0 +1,88 @@
+{
+  "error": null,
+  "result": {
+    "city_id": 135,
+    "city_name": "神户",
+    "city_image_url": "https://res.klook.com/image/upload/v1735801633/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/ic_city.png",
+    "navigation_list": [
+      "机场",
+      "火车站"
+    ],
+    "recommended_poi_info_list": [
+      {
+        "title": "机场",
+        "key": "car_rental_POI_search_17810",
+        "image_url": "https://res.klook.com/image/upload/v1735539695/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/icon_plane.png",
+        "buried_pointed_desc": "Airport_LIST",
+        "poi_info_list": [
+          {
+            "app_cookie_str": null,
+            "country_code": "JP",
+            "city_id": 135,
+            "city_name": "神户",
+            "country_id": null,
+            "poi_id": 50036842,
+            "poi_name": "神户机场",
+            "image_url": "https://res.klook.com/image/upload/v1735539695/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/icon_plane.png",
+            "address": null,
+            "longitude": "135.22788",
+            "latitude": "34.63667",
+            "poi_type": 2,
+            "iata_code": "UKB",
+            "display_icon": null,
+            "display_business_name": null,
+            "place_id": null,
+            "google_poi": false
+          }
+        ]
+      },
+      {
+        "title": "火车站",
+        "key": "car_rental_POI_search_17812",
+        "image_url": "https://res.klook.com/image/upload/v1735784963/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/__KIcon_KIcons.icon_train_outlined_size__24_colors__colorScheme.colorTextPrimary.png",
+        "buried_pointed_desc": "Railway_LIST",
+        "poi_info_list": [
+          {
+            "app_cookie_str": null,
+            "country_code": "JP",
+            "city_id": 135,
+            "city_name": "神户",
+            "country_id": null,
+            "poi_id": 50007500,
+            "poi_name": "新神户",
+            "image_url": "https://res.klook.com/image/upload/v1735784963/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/__KIcon_KIcons.icon_train_outlined_size__24_colors__colorScheme.colorTextPrimary.png",
+            "address": null,
+            "longitude": "135.195358",
+            "latitude": "34.704623",
+            "poi_type": 3,
+            "iata_code": null,
+            "display_icon": null,
+            "display_business_name": null,
+            "place_id": null,
+            "google_poi": false
+          },
+          {
+            "app_cookie_str": null,
+            "country_code": "JP",
+            "city_id": 135,
+            "city_name": "神户",
+            "country_id": null,
+            "poi_id": 50065406,
+            "poi_name": "神户三宫站",
+            "image_url": "https://res.klook.com/image/upload/v1735784963/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/__KIcon_KIcons.icon_train_outlined_size__24_colors__colorScheme.colorTextPrimary.png",
+            "address": null,
+            "longitude": "135.1960454",
+            "latitude": "34.6938491",
+            "poi_type": 3,
+            "iata_code": null,
+            "display_icon": null,
+            "display_business_name": null,
+            "place_id": null,
+            "google_poi": false
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

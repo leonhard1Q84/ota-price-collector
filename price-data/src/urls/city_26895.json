@@ -1,0 +1,60 @@
+{
+  "error": null,
+  "result": {
+    "city_id": 26895,
+    "city_name": "横滨",
+    "city_image_url": "https://res.klook.com/image/upload/v1735801633/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/ic_city.png",
+    "navigation_list": [
+      "火车站"
+    ],
+    "recommended_poi_info_list": [
+      {
+        "title": "火车站",
+        "key": "car_rental_POI_search_17812",
+        "image_url": "https://res.klook.com/image/upload/v1735784963/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/__KIcon_KIcons.icon_train_outlined_size__24_colors__colorScheme.colorTextPrimary.png",
+        "buried_pointed_desc": "Railway_LIST",
+        "poi_info_list": [
+          {
+            "app_cookie_str": null,
+            "country_code": "JP",
+            "city_id": 26895,
+            "city_name": "横滨",
+            "country_id": null,
+            "poi_id": 50005618,
+            "poi_name": "新横滨站",
+            "image_url": "https://res.klook.com/image/upload/v1735784963/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/__KIcon_KIcons.icon_train_outlined_size__24_colors__colorScheme.colorTextPrimary.png",
+            "address": null,
+            "longitude": "139.61719",
+            "latitude": "35.50782",
+            "poi_type": 3,
+            "iata_code": null,
+            "display_icon": null,
+            "display_business_name": null,
+            "place_id": null,
+            "google_poi": false
+          },
+          {
+            "app_cookie_str": null,
+            "country_code": "JP",
+            "city_id": 26895,
+            "city_name": "横滨",
+            "country_id": null,
+            "poi_id": 50006808,
+            "poi_name": "横滨站",
+            "image_url": "https://res.klook.com/image/upload/v1735784963/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/__KIcon_KIcons.icon_train_outlined_size__24_colors__colorScheme.colorTextPrimary.png",
+            "address": null,
+            "longitude": "139.62094",
+            "latitude": "35.464466",
+            "poi_type": 3,
+            "iata_code": null,
+            "display_icon": null,
+            "display_business_name": null,
+            "place_id": null,
+            "google_poi": false
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}
